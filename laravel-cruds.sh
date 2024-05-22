@@ -151,3 +151,4 @@ EOT
 # Add other necessary view files (create, edit, show) similarly...
 
 echo "Laravel CRUD application for ${RESOURCE_NAME} created successfully."
+
