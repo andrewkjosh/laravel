@@ -36,7 +36,7 @@ else
     echo "Laravel installer installed successfully."
 fi
 
-# Check if an app name was provided as an argument
+# Check if an app name was provided as an argument.
 if [ -z "$1" ]; then
     echo "Usage: $0 <app-name>"
     exit 1
